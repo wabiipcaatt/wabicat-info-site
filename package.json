@@ -1,0 +1,13 @@
+{
+  "name": "wabicat-info-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small Chinese public information site with search, pagination, and an optional protected publishing API.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
